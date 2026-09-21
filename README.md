@@ -1,4 +1,3 @@
-<img width="2198" height="1831" alt="image" src="https://github.com/user-attachments/assets/274914b5-c6e2-4a8c-b12e-6eb644d9837e" /># 115-a
 # 115-a
 
 > Markdown 基礎語法練習
