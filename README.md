@@ -89,7 +89,7 @@ WHERE department = '資訊管理系';
 
 ## 七、圖片
 
-![高雄愛河夜景](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kaohsiung_Love_River_IMG_2728.JPG/640px-Kaohsiung_Love_River_IMG_2728.JPG)
+
 
 ---
 
