@@ -88,7 +88,8 @@ WHERE department = '資訊管理系';
 
 ## 七、圖片
 
-![Uploading image.png…]
+
+<img width="2198" height="1831" alt="image" src="https://github.com/user-attachments/assets/46d201a2-700d-4d4f-bf9b-1bc15bb4f18e" />
 
 
 ---
