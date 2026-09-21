@@ -89,7 +89,7 @@ WHERE department = '資訊管理系';
 
 ## 七、圖片
 
-
+https://www.nkust.edu.tw/var/file/0/1000/img/513/783423456.png
 
 ---
 
